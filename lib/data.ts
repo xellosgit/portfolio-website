@@ -50,21 +50,21 @@ export const experiencesData = [
     title: "Legal work",
     location: "Kyiv, UA",
     description: [
-      "<em>2020-2022.</em> <strong>Lawyer</strong>. I was responsible for preparing claims, managing contract work, and providing legal support for cases.",
-      "<em>2022-2024.</em> <strong>Head of the Legal Department at a construction company</strong>.  Led a team of lawyers, coordinated the legal support processes for transactions, and represented the company's interests in negotiations. Ensured compliance with all legal requirements at various stages of construction projects, minimizing risks and contributing to the effective execution of business objectives.",
+      "<em>2019-2021.</em> <strong>Lawyer</strong>. I was responsible for preparing claims, managing contract work, and providing legal support for cases.",
+      "<em>2021-2023.</em> <strong>Head of the Legal Department at a construction company</strong>.  Led a team of lawyers, coordinated the legal support processes for transactions, and represented the company's interests in negotiations. Ensured compliance with all legal requirements at various stages of construction projects, minimizing risks and contributing to the effective execution of business objectives.",
     ],
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2024",
+    date: "2019 - 2023",
   },
   {
     title: "Full-Stack Developer",
     location: "Kyiv, UA",
     description: [
-      "I'm now a <strong>full-stack developer</strong> working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-      "I am also involved in <strong>entrepreneurship</strong> in the field of trade and services",
+      "<em>2023-present.</em> <strong>Freelance</strong> and <strong>Entrepreneurship</strong> in the field of trade and services.",
+      "<em>02/2023-10/2024.</em>  <strong>Full Stack Developer</strong>. Developed and maintained web applications, ensuring high performance, scalability, and responsiveness by utilizing modern frameworks and technologies. Collaborated with cross-functional teams to design, implement, and deploy user-friendly interfaces and efficient backend solutions. Debugged and optimized code to enhance application performance and user experience. Integrated third-party APIs and services to extend application functionality.",
     ],
     icon: React.createElement(FaReact),
-    date: "2024 - present",
+    date: "2023 - present",
   },
 ] as const;
 
