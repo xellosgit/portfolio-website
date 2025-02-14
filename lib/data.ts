@@ -109,7 +109,7 @@ export const skillsData = [
   "Apollo",
   "Express",
   "PostgreSQL",
-  "Python",
-  "Django",
+  "Vue.js",
+  "Nuxt.js",
   "Framer Motion",
 ] as const;
