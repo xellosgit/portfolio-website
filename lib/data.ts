@@ -61,7 +61,7 @@ export const experiencesData = [
     location: "Kyiv, UA",
     description: [
       "<em>2023-present.</em> <strong>Freelance</strong> and <strong>Entrepreneurship</strong> in the field of trade and services.",
-      "<em>02/2023-10/2024.</em>  <strong>Full Stack Developer</strong>. Developed and maintained web applications, ensuring high performance, scalability, and responsiveness by utilizing modern frameworks and technologies. Collaborated with cross-functional teams to design, implement, and deploy user-friendly interfaces and efficient backend solutions. Debugged and optimized code to enhance application performance and user experience. Integrated third-party APIs and services to extend application functionality.",
+      "<em>01/2023-02/2025.</em>  <strong>Full Stack Developer</strong>. Developed and maintained web applications, ensuring high performance, scalability, and responsiveness by utilizing modern frameworks and technologies. Collaborated with cross-functional teams to design, implement, and deploy user-friendly interfaces and efficient backend solutions. Debugged and optimized code to enhance application performance and user experience. Integrated third-party APIs and services to extend application functionality.",
     ],
     icon: React.createElement(FaReact),
     date: "2023 - present",
@@ -99,6 +99,9 @@ export const skillsData = [
   "TypeScript",
   "React",
   "Next.js",
+  "Vue.js",
+  "Nuxt.js",
+  "NestJS",
   "Node.js",
   "Git",
   "Tailwind",
@@ -109,7 +112,4 @@ export const skillsData = [
   "Apollo",
   "Express",
   "PostgreSQL",
-  "Vue.js",
-  "Nuxt.js",
-  "Framer Motion",
 ] as const;
