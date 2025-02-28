@@ -60,7 +60,7 @@ export const experiencesData = [
     title: "Full-Stack Developer",
     location: "Kyiv, UA",
     description: [
-      "<em>2023-present.</em> <strong>Freelance</strong> and <strong>Entrepreneurship</strong> in the field of trade and services.",
+      "<em>2023-present.</em> <strong>Freelance</strong>. Development of e-commerce platforms and portfolio websites using the MERN stack.",
       "<em>01/2023-02/2025.</em>  <strong>Full Stack Developer</strong>. Developed and maintained web applications, ensuring high performance, scalability, and responsiveness by utilizing modern frameworks and technologies. Collaborated with cross-functional teams to design, implement, and deploy user-friendly interfaces and efficient backend solutions. Debugged and optimized code to enhance application performance and user experience. Integrated third-party APIs and services to extend application functionality.",
     ],
     icon: React.createElement(FaReact),
